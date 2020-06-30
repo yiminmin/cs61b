@@ -17,7 +17,7 @@ public class NBody {
     /**
      * Return an array of Bodys corresponding to the bodies in the file
      */
-    public static Planet[] readBodies(String fileName) {
+    public static Planet[] readPlanets(String fileName) {
         In in = new In(fileName);
         int num = in.readInt();
         in.readDouble();
@@ -47,7 +47,7 @@ public class NBody {
         double dt = Double.parseDouble(args[1]);
         String fileName = args[2];
         double uniRadius = NBody.readRadius(fileName);
-        Planet[] Planets = NBody.readBodies(fileName);
+        Planet[] Planets = NBody.readPlanets(fileName);
 
         /**
          * Draw the background
