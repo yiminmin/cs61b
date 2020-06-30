@@ -1,10 +1,10 @@
 public class Planet {
-    double xxPos;
-    double yyPos;
-    double xxVel;
-    double yyVel;
-    double mass;
-    String imgFileName;
+    public double xxPos;
+    public double yyPos;
+    public double xxVel;
+    public double yyVel;
+    public double mass;
+    public String imgFileName;
 
     private static final double G = 6.67e-11;
 
@@ -31,14 +31,14 @@ public class Planet {
         this.imgFileName = p.imgFileName;
     }
 
-    public Planet() {
-        this.xxPos = 0;
-        this.yyPos = 0;
-        this.xxVel = 0;
-        this.yyVel = 0;
-        this.mass = 0;
-        this.imgFileName = "";
-    }
+//    public Planet() {
+//        this.xxPos = 0;
+//        this.yyPos = 0;
+//        this.xxVel = 0;
+//        this.yyVel = 0;
+//        this.mass = 0;
+//        this.imgFileName = "";
+//    }
 
     public double calcDistance(Planet target) {
         double distance = (target.xxPos - this.xxPos) * (target.xxPos - this.xxPos)
@@ -96,12 +96,6 @@ public class Planet {
     public void draw() {
         StdDraw.picture(this.xxPos, this.yyPos, "images/" + this.imgFileName);
     }
-
-
-
-
-
-
 
 
 }
