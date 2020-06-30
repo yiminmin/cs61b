@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="221dc860-7b0f-4bb9-b573-fa8c55148b3e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/NBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/NBody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/StdOut.java" beforeDir="false" afterPath="$PROJECT_DIR$/examples/StdOut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week2/src/IntList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/IntList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week2lecture/src/ArgsDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week2lecture/src/IntList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week2lecture/src/Lists1Exercises.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week2lecture/src/PassedByValueFigure.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week2lecture/src/SLList.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1dw8MjEGkHGqQgIgh9u38s2onEO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RunManager" selected="Application.NBody">
+    <configuration name="NBody" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NBody" />
+      <module name="proj0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPlanetConstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestPlanetConstructor" />
+      <module name="proj0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NBody" />
+        <item itemvalue="Application.TestPlanetConstructor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="221dc860-7b0f-4bb9-b573-fa8c55148b3e" name="Default Changelist" comment="" />
+      <created>1593324748668</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593324748668</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2607" y="208" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593333401769">
+      <screen x="1792" y="23" width="1600" height="877" />
+    </state>
+    <state x="2607" y="208" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1792.23.1600.877/0.23.1792.1097@1792.23.1600.877" timestamp="1593333401769" />
+    <state x="2285" y="301" key="com.intellij.ide.util.TipDialog" timestamp="1593325109513">
+      <screen x="1792" y="23" width="1600" height="877" />
+    </state>
+    <state x="2285" y="301" key="com.intellij.ide.util.TipDialog/1792.23.1600.877/0.23.1792.1097@1792.23.1600.877" timestamp="1593325109513" />
+  </component>
+</project>
