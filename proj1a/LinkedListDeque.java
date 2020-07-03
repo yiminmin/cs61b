@@ -1,4 +1,4 @@
-public class LinkedListDeque <T> {
+public class LinkedListDeque<T> {
     /*doubly linked list*/
     private class TNode {
         private T item;
@@ -32,6 +32,7 @@ public class LinkedListDeque <T> {
         sentinel = new TNode(null, null, null);
         sentinel.prev = sentinel;
         sentinel.next = sentinel;
+        size = 0;
     }
 
     /**
@@ -99,7 +100,7 @@ public class LinkedListDeque <T> {
         return toGet.item;
     }
 
-    public T getRecursively(int index) {
+    public T getRecursive(int index) {
         return getRecHelper(index, sentinel.next);
     }
 
