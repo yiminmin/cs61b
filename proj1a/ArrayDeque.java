@@ -1,5 +1,3 @@
-import java.util.Deque;
-
 public class ArrayDeque<T> {
     private T[] items;
     private int nextFirst;
@@ -48,11 +46,7 @@ public class ArrayDeque<T> {
 
     /** Returns true if deque is empty, false otherwise*/
     public boolean isEmpty() {
-        if (size == 0) {
-            return true;
-        } else {
-            return false;
-        }
+        return size == 0;
     }
 
     /** Returns the number of items in the deque. */
@@ -67,8 +61,7 @@ public class ArrayDeque<T> {
             return null;
         }
         int start = plusOne(nextFirst);
-        int requiredIndex = (start + index) % items.length;
-        return items[requiredIndex];
+        return items[(start + index) % items.length];
     }
 
     /** Resizes the underlying array to the target capacity. */
@@ -115,29 +108,29 @@ public class ArrayDeque<T> {
      * If no such item exists, returns null.
      */
     public T removeFirst() {
+        if (isSparse()) {
+            downSize();
+        }
         nextFirst = plusOne(nextFirst);
         T toRemove = items[nextFirst];
         items[nextFirst] = null;
         if (!isEmpty()) {
             size -= 1;
         }
-        if (isSparse()) {
-            downSize();
-        }
-       return toRemove;
+        return toRemove;
     }
 
     /** Removes and returns the item at the back of the deque.
      * If no such item exists, returns null. */
     public T removeLast() {
+        if (isSparse()) {
+            downSize();
+        }
         nextLast = minusOne(nextLast);
         T toRemove = items[nextLast];
         items[nextLast] = null;
         if (!isEmpty()) {
             size -= 1;
-        }
-        if (isSparse()) {
-            downSize();
         }
         return toRemove;
     }
