@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57e40437-7957-4492-b39f-faba5bb0838e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../proj0/NBody.class" beforeDir="false" afterPath="$PROJECT_DIR$/../proj0/NBody.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj0/NBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj0/NBody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../proj0/Planet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../proj0/Planet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week2/src/IntList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/IntList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week2lecture/src/ArgsDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week2lecture/src/IntList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week2lecture/src/Lists1Exercises.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week2lecture/src/PassedByValueFigure.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week2lecture/src/SLList.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1e8Me2RhEmssyfP7XBFfDYN8tvG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RunManager">
+    <configuration name="LinkedListDequeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedListDequeTest" />
+      <module name="proj1a" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LinkedListDequeTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57e40437-7957-4492-b39f-faba5bb0838e" name="Default Changelist" comment="" />
+      <created>1593698858702</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593698858702</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2753" y="178" key="#com.intellij.ide.util.MemberChooser" timestamp="1593746195469">
+      <screen x="1792" y="23" width="1600" height="877" />
+    </state>
+    <state x="2753" y="178" key="#com.intellij.ide.util.MemberChooser/1792.23.1600.877/0.23.1792.1097@1792.23.1600.877" timestamp="1593746195469" />
+    <state x="2080" y="43" key="SettingsEditor" timestamp="1593698881478">
+      <screen x="1792" y="23" width="1600" height="877" />
+    </state>
+    <state x="2080" y="43" key="SettingsEditor/1792.23.1600.877/0.23.1792.1097@1792.23.1600.877" timestamp="1593698881478" />
+    <state x="2285" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1593698862212">
+      <screen x="1792" y="23" width="1600" height="877" />
+    </state>
+    <state x="2285" y="294" key="com.intellij.ide.util.TipDialog/1792.23.1600.877/0.23.1792.1097@1792.23.1600.877" timestamp="1593698862212" />
+  </component>
+</project>
