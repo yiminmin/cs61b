@@ -5,6 +5,8 @@
       <change beforePath="$PROJECT_DIR$/../proj0/NBody.class" beforeDir="false" afterPath="$PROJECT_DIR$/../proj0/NBody.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../proj0/NBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/../proj0/NBody.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../proj0/Planet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../proj0/Planet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayDeque.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayDeque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedListDeque.java" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedListDeque.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week2/src/IntList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week2/src/IntList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week2lecture/src/ArgsDemo.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../week2lecture/src/IntList.java" beforeDir="false" />
@@ -36,6 +38,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -75,13 +78,30 @@
       <screen x="1792" y="23" width="1600" height="877" />
     </state>
     <state x="2753" y="178" key="#com.intellij.ide.util.MemberChooser/1792.23.1600.877/0.23.1792.1097@1792.23.1600.877" timestamp="1593746195469" />
+    <state width="1231" height="191" key="GridCell.Tab.0.bottom" timestamp="1593767683293">
+      <screen x="1792" y="23" width="1600" height="877" />
+    </state>
+    <state width="1231" height="191" key="GridCell.Tab.0.bottom/1792.23.1600.877/0.23.1792.1097@1792.23.1600.877" timestamp="1593767683293" />
+    <state width="1231" height="191" key="GridCell.Tab.0.center" timestamp="1593767683293">
+      <screen x="1792" y="23" width="1600" height="877" />
+    </state>
+    <state width="1231" height="191" key="GridCell.Tab.0.center/1792.23.1600.877/0.23.1792.1097@1792.23.1600.877" timestamp="1593767683293" />
+    <state width="1231" height="191" key="GridCell.Tab.0.left" timestamp="1593767683293">
+      <screen x="1792" y="23" width="1600" height="877" />
+    </state>
+    <state width="1231" height="191" key="GridCell.Tab.0.left/1792.23.1600.877/0.23.1792.1097@1792.23.1600.877" timestamp="1593767683293" />
+    <state width="1231" height="191" key="GridCell.Tab.0.right" timestamp="1593767683293">
+      <screen x="1792" y="23" width="1600" height="877" />
+    </state>
+    <state width="1231" height="191" key="GridCell.Tab.0.right/1792.23.1600.877/0.23.1792.1097@1792.23.1600.877" timestamp="1593767683293" />
     <state x="2080" y="43" key="SettingsEditor" timestamp="1593698881478">
       <screen x="1792" y="23" width="1600" height="877" />
     </state>
     <state x="2080" y="43" key="SettingsEditor/1792.23.1600.877/0.23.1792.1097@1792.23.1600.877" timestamp="1593698881478" />
-    <state x="2285" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1593698862212">
-      <screen x="1792" y="23" width="1600" height="877" />
+    <state x="552" y="362" key="com.intellij.ide.util.TipDialog" timestamp="1593768224385">
+      <screen x="0" y="23" width="1792" height="1097" />
     </state>
+    <state x="552" y="362" key="com.intellij.ide.util.TipDialog/1792.23.1600.877/0.23.1792.1097@0.23.1792.1097" timestamp="1593768224385" />
     <state x="2285" y="294" key="com.intellij.ide.util.TipDialog/1792.23.1600.877/0.23.1792.1097@1792.23.1600.877" timestamp="1593698862212" />
   </component>
 </project>

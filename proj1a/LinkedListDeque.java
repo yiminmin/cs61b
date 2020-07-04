@@ -5,7 +5,7 @@ public class LinkedListDeque<T> {
         private TNode prev;
         private TNode next;
 
-        private TNode (T x, TNode p, TNode n) {
+        private TNode(T x, TNode p, TNode n) {
             item = x;
             prev = p;
             next = n;
@@ -137,25 +137,4 @@ public class LinkedListDeque<T> {
             addLast((T) other.get(i));
         }
     }
-
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
